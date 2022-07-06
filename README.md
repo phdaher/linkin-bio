@@ -1,4 +1,4 @@
-# linkin-bio
+# LinkIn Bio
 
 Página web para link das minhas redes sociais
 
